@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam9936&label=Profile%20views&color=0e75b6&style=flat" alt="satyam9936" /> </p>
 
-- 🔭 I’m currently working on **AppwriteBlog Application with Authentication**
+- 🔭 I’m currently working on *Block-Chain developer and Dev-ops **
 
 - 🌱 I’m currently learning **React, Next js, Node js, Alchemy, Solana ,Ethereum, Solidity**
 
-- 👯 I’m looking to collaborate on **Solana Wallet Adapter**
+- 👯 I’m looking to collaborate on **Solana Wallet Adapter and Blockchain App **
 
-- 🤝 I’m looking for help with **Blockchain,Token,Wallet,**
+- 🤝 I’m looking for help with **Blockchain,Token,Wallet,DAaps,Ethereum**
 
 - 💬 Ask me about **react,js,blockchain,wallet,tokens,**
 
