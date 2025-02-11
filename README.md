@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam9936&show_icons=true&locale=en" alt="satyam9936" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-five-rho.vercel.app?user=satyam9936&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-five-rho.vercel.app?user=satyam9936&theme=highcontrast)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyam9936/satyamReadme/output/github-snake-dark.svg" />
