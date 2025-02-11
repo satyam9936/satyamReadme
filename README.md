@@ -1,4 +1,4 @@
-![logo](https://github.com/satyam9936/satyamReadme/blob/main/SNAKEBITE_%20A%20VIPER%E2%80%99S%20TALE%20__%20VALORANT%20-%20YouTube%20-%20Google%20Chrome%2012-02-2022%2012_39_29.png)
+![logo](https://github.com/satyam9936/satyam9936/blob/main/wallpaperflare.com_wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Rastogi</h1>
 <h3 align="center">A passionate Full-Mern -stack developer</h3>
 
